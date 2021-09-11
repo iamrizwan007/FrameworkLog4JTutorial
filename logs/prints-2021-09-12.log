@@ -1,0 +1,9 @@
+03:56:22.214 [main] DEBUG beta.Demo1 - i am debug message
+03:56:22.216 [main] INFO  beta.Demo1 - this is info
+03:56:22.216 [main] ERROR beta.Demo1 - this is an error
+03:56:22.216 [main] FATAL beta.Demo1 - this is fatal
+03:56:28.341 [main] ERROR alpha.Demo - this is an error
+03:56:28.342 [main] FATAL alpha.Demo - this is fatal
+03:56:49.878 [main] DEBUG beta.Demo1 - i am debug message
+03:56:49.880 [main] INFO  beta.Demo1 - this is info
+03:56:49.880 [main] ERROR beta.Demo1 - this is an error
